@@ -1,0 +1,7 @@
+Ventas por Producto
+idProducto;nombreProducto;cantidadVendida;montoTotal
+00000046;Lápices de colores 12 unidades;2;5,90
+
+Ventas por Categoría
+categoria;cantidadVendida;montoTotal
+EDUCACION;2;5,90

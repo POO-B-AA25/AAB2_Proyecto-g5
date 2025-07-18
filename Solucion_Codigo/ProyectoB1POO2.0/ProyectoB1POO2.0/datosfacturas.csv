@@ -1,0 +1,95 @@
+# Facturas
+# Encabezado: idFactura;fecha;clienteId;clienteNombre;correo;telefono;direccion;subtotal;iva;total
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea
+1d96f6fb;2025-06-03;12313;123213;12313;12313;123;9,00;1,08;8,28
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea
+
+1d96f6fb;00000037;Fósforos caja x 3;VIVIENDA;12;0,75;9,00
+
+fde39dfa;2025-06-03;D;12313;12313;12313;12313;420,00;50,40;365,40
+fde39dfa;00000053;Abrigo ligero talla L;VESTIMENTA;12;35,00;420,00
+
+fda729f1;2025-06-03;asdsad;adsad;asdada;dssad;sadad;10,20;1,22;8,36
+fda729f1;00000047;Regla de 30cm;EDUCACION;12;0,85;10,20
+
+# Facturas
+# Encabezado: idFactura;fecha;clienteId;clienteNombre;correo;telefono;direccion;subtotal;iva;total
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea
+581aeef0;2025-06-03;12321321;1231321;1231321;1232131;12313;10,20;1,22;8,36
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea
+
+581aeef0;00000047;Regla de 30cm;EDUCACION;12;0,85;10,20
+
+# Facturas
+# Encabezado: idFactura;fecha;clienteId;clienteNombre;correo;telefono;direccion;subtotal;iva;total
+bea41049;2025-06-03;adsad;asdasda;dsad;asdasd;asdad;354,00;42,48;307,98
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea
+
+bea41049;00000051;Zapatos deportivos talla 42;VESTIMENTA;12;29,50;354,00
+
+# Facturas
+# Encabezado: idFactura;fecha;clienteId;clienteNombre;correo;telefono;direccion;subtotal;iva;total
+ec30f7d8;2025-06-03;123123;12321321;312321;13213;123;420,00;50,40;365,40
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea
+ec30f7d8;00000053;Abrigo ligero talla L;VESTIMENTA;12;35,00;420,00
+
+# Facturas
+# Encabezado: idFactura;fecha;clienteId;clienteNombre;correo;telefono;direccion;subtotal;iva;total
+7027840c;2025-06-03;Diego Lojan;diego LOjan;123;123;123;117,00;14,04;107,64
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea
+7027840c;00000042;Cortinas de baño;VIVIENDA;12;9,75;117,00
+
+# Facturas
+# Encabezado: idFactura;fecha;clienteId;clienteNombre;correo;telefono;direccion;subtotal;iva;total
+080650b9;2025-06-03;12313;12313;12313;12313;12313;8,40;1,01;7,73
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea
+080650b9;00000040;Trapeador de microfibra;VIVIENDA;2;4,20;8,40
+
+# Facturas
+# Encabezado: idFactura;fecha;clienteId;clienteNombre;correo;telefono;direccion;subtotal;iva;total
+3938e83c;2025-06-03;1213;12313;12313;12313;12313;22,20;2,66;17,09
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea
+3938e83c;00000023;Galletas de avena 300g;ALIMENTACION;12;1,85;22,20
+
+# Facturas
+# Encabezado: idFactura;fecha;clienteId;clienteNombre;correo;telefono;direccion;subtotal;iva;total
+245786b0;2025-06-03;aasda;sadsa;asda;adsa;asda;43,20;5,18;31,10
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea
+245786b0;00000015;Shampoo 400ml;SALUD;12;3,60;43,20
+
+# Facturas
+# Encabezado: idFactura;fecha;clienteId;clienteNombre;correo;telefono;direccion;subtotal;iva;total
+f3df186a;2025-06-03;adsa;asda;adsad;asdad;adsad;13,00;1,56;11,31
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea
+f3df186a;00000049;Camiseta de algodón talla M;VESTIMENTA;2;6,50;13,00
+
+# Facturas
+# Encabezado: idFactura;fecha;clienteId;clienteNombre;correo;telefono;direccion;subtotal;iva;total
+538ec9b0;2025-06-03;saxsa;asdad;asdad;asdsad;asdsad;9,75;1,17;8,97
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea
+538ec9b0;00000042;Cortinas de baño;VIVIENDA;1;9,75;9,75
+
+# Facturas
+# Encabezado: idFactura;fecha;clienteId;clienteNombre;correo;telefono;direccion;subtotal;iva;total
+8c547be5;2025-06-03;123;1231;3123;123;123;2,00;0,24;1,54
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea
+8c547be5;00000017;Bananas 1kg;ALIMENTACION;2;1,00;2,00
+
+# Facturas
+# Encabezado: idFactura;fecha;clienteId;clienteNombre;correo;telefono;direccion;subtotal;iva;total
+61533e72;2025-06-03;12312;3123;13;21;31;5,00;0,60;3,85
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea
+61533e72;00000029;Jugo de naranja 1L;ALIMENTACION;2;2,50;5,00
+
+# Facturas
+# Encabezado: idFactura;fecha;clienteId;clienteNombre;correo;telefono;direccion;subtotal;iva;total
+428b50a4;2025-06-03;adsad;asdad;adssad;asdad;asdsada;5,90;0,71;4,54
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea
+428b50a4;00000022;Mantequilla 250g;ALIMENTACION;2;2,95;5,90
+
+# Facturas
+# Encabezado: idFactura;fecha;clienteId;clienteNombre;correo;telefono;direccion;subtotal;iva;total
+bf8f4dae;2025-06-03;21313;21313;12313;12313;12313;37,80;4,54;32,89
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea
+bf8f4dae;00000050;Pantalón jeans talla 32;VESTIMENTA;2;18,90;37,80
+
