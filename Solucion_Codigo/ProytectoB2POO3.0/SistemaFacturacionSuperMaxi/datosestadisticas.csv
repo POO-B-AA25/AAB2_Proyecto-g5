@@ -1,0 +1,7 @@
+Ventas por Producto
+idProducto;nombreProducto;cantidadVendida;montoTotal
+00000050;Pantalón jeans talla 32;2;37,80
+
+Ventas por Categoría
+categoria;cantidadVendida;montoTotal
+VESTIMENTA;2;37,80
