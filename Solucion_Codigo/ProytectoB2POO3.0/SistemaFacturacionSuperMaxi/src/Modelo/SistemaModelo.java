@@ -20,8 +20,8 @@ public class SistemaModelo {
     private ImpuestoDeducible deducible;
     private EstadisticaVentas estadisticas;
 
-    private final String nombreArchivoInventario = "datosinventario.csv";
-    private final String nombreArchivoFacturas = "datosfacturas.csv";
+    private String nombreArchivoInventario = "datosinventario.csv";
+    private String nombreArchivoFacturas = "datosfacturas.csv";
 
     private final NumberFormat numberFormat;
 

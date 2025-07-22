@@ -13,8 +13,6 @@ public class EstadisticaPorCategoria extends EstadisticaVentas {
 
         public VentaPorCategoria(String categoria) {
             this.categoria = categoria;
-            this.cantidadCategoriaVendida = 0;
-            this.montoTotal = 0.0;
         }
     }
 

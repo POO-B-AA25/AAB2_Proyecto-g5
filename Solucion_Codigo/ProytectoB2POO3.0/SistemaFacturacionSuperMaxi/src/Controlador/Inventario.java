@@ -13,7 +13,6 @@ public class Inventario {
         this.productos = productos;
     }
 
-    /** Agrega un producto nuevo */
     public void agregarProducto(Producto p) {
         productos.add(p);
     }
@@ -28,7 +27,6 @@ public class Inventario {
         return null;
     }
 
-    /** Muestra internamente una tabla con todos los productos del inventario */
     public void listarInventario() {
         System.out.println("--------------------------------------------------------------------------");
         System.out.println("ID       | Nombre                    | Categoría    |  Precio  | Stock | Caduca   | Tipo");

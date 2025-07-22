@@ -45,7 +45,6 @@ public class ImpuestoDeducible {
     }
 
     public double aplicarDeduccion(double totalBruto) {
-        // Aplicar un descuento base del 5% para deducibles
         return totalBruto * 0.95;
     }
 }

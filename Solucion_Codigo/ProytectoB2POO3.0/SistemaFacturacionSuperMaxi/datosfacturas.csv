@@ -97,3 +97,7 @@ FAC-0001;2025-07-20;12313;Diego;sadad;12313;asdasd;NATURAL;22,80;3,42;24,12
 # Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea;tipoProducto
 FAC-0001;00000044;Bolígrafos (pack x10);EDUCACION;12;1,90;22,80;NORMAL
 
+FAC-0001;2025-07-21;12313;Diego Lojan;asdad;12313;Diego;NATURAL;37,80;5,67;39,99
+# Detalle: idFactura;idProducto;nombreProducto;categoria;cantidad;precioUnitario;subtotalLinea;tipoProducto
+FAC-0001;00000050;Pantalón jeans talla 32;VESTIMENTA;2;18,90;37,80;NORMAL
+

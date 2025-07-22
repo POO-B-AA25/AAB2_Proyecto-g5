@@ -48,7 +48,7 @@ idProducto;nombre;categoria;precioBase;cantidadStock;fechaCaducidad;tipoProducto
 00000047;Regla de 30cm;EDUCACION;0,85;52;2025-06-26;NORMAL
 00000048;Pegamento escolar 120ml;EDUCACION;1,25;58;2025-06-25;NORMAL
 00000049;Camiseta de algodón talla M;VESTIMENTA;6,50;38;2025-06-24;NORMAL
-00000050;Pantalón jeans talla 32;VESTIMENTA;18,90;33;2025-06-23;NORMAL
+00000050;Pantalón jeans talla 32;VESTIMENTA;18,90;31;2025-06-23;NORMAL
 00000051;Zapatos deportivos talla 42;VESTIMENTA;29,50;13;2025-06-22;NORMAL
 00000052;Calcetines algodón (pack x3);VESTIMENTA;3,20;60;2025-06-21;NORMAL
 00000053;Abrigo ligero talla L;VESTIMENTA;35,00;8;2025-06-20;NORMAL
